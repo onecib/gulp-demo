@@ -6,3 +6,9 @@ this is a demo with some tasks gulp can do
 ```
 npm install
 ```
+
+
+# start
+```
+gulp
+```
